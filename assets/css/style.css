@@ -1,0 +1,22 @@
+.row >nav >div >a{
+    display: flex;
+    align-items: center;
+}
+div.container.text-center{
+    display: flex;
+    align-items: center;
+}
+div.container.text-center p{
+   margin-left: 1rem;
+   margin-top: 1rem;
+}
+div.col-md input{
+    width: 100%;
+}
+div.col-md-6 input{
+    width: 100%;
+}
+div.col-md-3 input{
+    width: 100%;
+   
+}
